@@ -202,7 +202,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/home/marcodc/Documents/CPU/Webdev/enterprise-portal/generated/prisma",
+      "value": "C:\\Users\\mcastillo\\Documents\\University\\CPU\\WebDev\\enterprise-portal\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -211,17 +211,16 @@ const config = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "debian-openssl-3.0.x",
+        "value": "windows",
         "native": true
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/home/marcodc/Documents/CPU/Webdev/enterprise-portal/prisma/schema.prisma",
+    "sourceFilePath": "C:\\Users\\mcastillo\\Documents\\University\\CPU\\WebDev\\enterprise-portal\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
-    "rootEnvPath": null,
-    "schemaEnvPath": "../../.env"
+    "rootEnvPath": null
   },
   "relativePath": "../../prisma",
   "clientVersion": "6.19.3",
